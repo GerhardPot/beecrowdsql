@@ -6,3 +6,5 @@ beecrowd has a list of all available problems, starting at 1000 and ending at 34
 
 # Additional Notes
 This repository will only contain the SQL portion of beecrowd. It consists of 50 problems.
+
+The website to submit the code uses PostgreSQL as the language.
